@@ -17,6 +17,9 @@ namespace Lentelė
         static int count = 10000; // sugeneruojamų elementų kiekis
         static int n = 30; // paieškų kiekis
         static List<int> rndList = new List<int>(29);
+
+        private static System.Object lockThis = new System.Object(); 
+
         static void Main(string[] args)
         {
             Reading();
@@ -67,7 +70,10 @@ namespace Lentelė
             for (int i = 0; i < n / 3; i++)
             {
                 int sk = rnd.Next(1, 70);
-                bool ats = table.ContainsValue(a, b, rndList.ElementAt(c));
+                lock (lockThis)
+                {
+                    bool ats = table.ContainsValue(a, b, rndList.ElementAt(c));
+                }
                 c++;
                 //Console.WriteLine(ats);
             }
