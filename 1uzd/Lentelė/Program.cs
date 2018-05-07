@@ -15,14 +15,16 @@ namespace Lentelė
         public const int keyLength = 5; // rakto ilgis
         static Hash table = new Hash(capacity); // sugeneruojama tusčia lentelė
         static int count = 10000; // sugeneruojamų elementų kiekis
-        static int n = 100; // paieškų kiekis
-        static List<int> rndList = new List<int>(29);
+        static int n = 30; // paieškų kiekis
+        static List<int> rndList = new List<int>();
 
         private static System.Object lockThis = new System.Object(); 
+        private static int threadsCompleted;
 
         static void Main(string[] args)
         {
             Reading();
+            threadsCompleted = 0;
             ThreadStart ts1 = delegate { Containss(0, capacity / 3, 0); };
             ThreadStart ts2 = delegate { Containss(capacity / 3, (capacity /3) * 2, 10); };
             ThreadStart ts3 = delegate { Containss((capacity / 3) * 2, capacity, 20); };
@@ -34,6 +36,11 @@ namespace Lentelė
             th1.Start();
             th2.Start();
             th3.Start();
+            while(threadsCompleted < 3)
+            {
+                Thread.Sleep(100);
+            }
+            Console.WriteLine(threadsCompleted);
             watch.Stop();
            // th1.Abort();
            // th2.Abort();
@@ -59,7 +66,7 @@ namespace Lentelė
                 value = ats.Next(1, 50);
                 table.Add(key.ToString(), value);
             }
-            for (int i = 0; i < 30; i++)
+            for (int i = 0; i < n; i++)
             {
                 rndList.Add(ats.Next(1, 70));  // susikuriu atsitiktinių skaičių aibę
             }
@@ -76,6 +83,10 @@ namespace Lentelė
                 }
                 c++;
                 //Console.WriteLine(ats);
+            }
+            lock(lockThis)
+            {
+                threadsCompleted++;
             }
         }
         public static void Writing(Hash table)
