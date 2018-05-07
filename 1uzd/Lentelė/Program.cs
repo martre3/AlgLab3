@@ -15,7 +15,7 @@ namespace Lentelė
         public const int keyLength = 5; // rakto ilgis
         static Hash table = new Hash(capacity); // sugeneruojama tusčia lentelė
         static int count = 10000; // sugeneruojamų elementų kiekis
-        static int n = 30; // paieškų kiekis
+        static int n = 100; // paieškų kiekis
         static List<int> rndList = new List<int>(29);
 
         private static System.Object lockThis = new System.Object(); 
