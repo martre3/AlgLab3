@@ -1,0 +1,35 @@
+C:\Users\Tadas\Desktop\Lentelė\Lentelė\bin\Debug\Lentelė.exe.config
+C:\Users\Tadas\Desktop\Lentelė\Lentelė\bin\Debug\Lentelė.exe
+C:\Users\Tadas\Desktop\Lentelė\Lentelė\bin\Debug\Lentelė.pdb
+C:\Users\Tadas\Desktop\Lentelė\Lentelė\obj\Debug\Lentelė.csprojResolveAssemblyReference.cache
+C:\Users\Tadas\Desktop\Lentelė\Lentelė\obj\Debug\Lentelė.csproj.CoreCompileInputs.cache
+C:\Users\Tadas\Desktop\Lentelė\Lentelė\obj\Debug\Lentelė.exe
+C:\Users\Tadas\Desktop\Lentelė\Lentelė\obj\Debug\Lentelė.pdb
+D:\Algoritmu sudarymas ir analize\lab1Maišos funkcija - išorinė atmintis\Lentelė\bin\Debug\Lentelė.exe.config
+D:\Algoritmu sudarymas ir analize\lab1Maišos funkcija - išorinė atmintis\Lentelė\obj\Debug\Lentelė.exe
+D:\Algoritmu sudarymas ir analize\lab1Maišos funkcija - išorinė atmintis\Lentelė\obj\Debug\Lentelė.pdb
+D:\Algoritmu sudarymas ir analize\lab1Maišos funkcija - išorinė atmintis\Lentelė\bin\Debug\Lentelė.exe
+D:\Algoritmu sudarymas ir analize\lab1Maišos funkcija - išorinė atmintis\Lentelė\bin\Debug\Lentelė.pdb
+D:\Algoritmu sudarymas ir analize\lab1Maišos funkcija - išorinė atmintis\Lentelė\obj\Debug\Lentelė.csprojResolveAssemblyReference.cache
+D:\Algoritmu sudarymas ir analize\lab1Maišos funkcija - išorinė atmintis\Lentelė\obj\Debug\Lentelė.csproj.CoreCompileInputs.cache
+D:\Algoritmu sudarymas ir analize\lab1Maišos funkcija - vidinė atmintis\Lentelė\bin\Debug\Lentelė.exe.config
+D:\Algoritmu sudarymas ir analize\lab1Maišos funkcija - vidinė atmintis\Lentelė\bin\Debug\Lentelė.exe
+D:\Algoritmu sudarymas ir analize\lab1Maišos funkcija - vidinė atmintis\Lentelė\bin\Debug\Lentelė.pdb
+D:\Algoritmu sudarymas ir analize\lab1Maišos funkcija - vidinė atmintis\Lentelė\obj\Debug\Lentelė.csprojResolveAssemblyReference.cache
+D:\Algoritmu sudarymas ir analize\lab1Maišos funkcija - vidinė atmintis\Lentelė\obj\Debug\Lentelė.csproj.CoreCompileInputs.cache
+D:\Algoritmu sudarymas ir analize\lab1Maišos funkcija - vidinė atmintis\Lentelė\obj\Debug\Lentelė.exe
+D:\Algoritmu sudarymas ir analize\lab1Maišos funkcija - vidinė atmintis\Lentelė\obj\Debug\Lentelė.pdb
+G:\Algoritmu sudarymas ir analize\Individualus darbas\lab1Maišos funkcija - vidinė atmintis\Lentelė\bin\Debug\Lentelė.exe.config
+G:\Algoritmu sudarymas ir analize\Individualus darbas\lab1Maišos funkcija - vidinė atmintis\Lentelė\bin\Debug\Lentelė.exe
+G:\Algoritmu sudarymas ir analize\Individualus darbas\lab1Maišos funkcija - vidinė atmintis\Lentelė\bin\Debug\Lentelė.pdb
+G:\Algoritmu sudarymas ir analize\Individualus darbas\lab1Maišos funkcija - vidinė atmintis\Lentelė\obj\Debug\Lentelė.csprojResolveAssemblyReference.cache
+G:\Algoritmu sudarymas ir analize\Individualus darbas\lab1Maišos funkcija - vidinė atmintis\Lentelė\obj\Debug\Lentelė.csproj.CoreCompileInputs.cache
+G:\Algoritmu sudarymas ir analize\Individualus darbas\lab1Maišos funkcija - vidinė atmintis\Lentelė\obj\Debug\Lentelė.exe
+G:\Algoritmu sudarymas ir analize\Individualus darbas\lab1Maišos funkcija - vidinė atmintis\Lentelė\obj\Debug\Lentelė.pdb
+D:\Algoritmu sudarymas ir analize\Individualus darbas\lab1Maišos funkcija - vidinė atmintis\Lentelė\bin\Debug\Lentelė.exe.config
+D:\Algoritmu sudarymas ir analize\Individualus darbas\lab1Maišos funkcija - vidinė atmintis\Lentelė\bin\Debug\Lentelė.exe
+D:\Algoritmu sudarymas ir analize\Individualus darbas\lab1Maišos funkcija - vidinė atmintis\Lentelė\bin\Debug\Lentelė.pdb
+D:\Algoritmu sudarymas ir analize\Individualus darbas\lab1Maišos funkcija - vidinė atmintis\Lentelė\obj\Debug\Lentelė.csprojResolveAssemblyReference.cache
+D:\Algoritmu sudarymas ir analize\Individualus darbas\lab1Maišos funkcija - vidinė atmintis\Lentelė\obj\Debug\Lentelė.csproj.CoreCompileInputs.cache
+D:\Algoritmu sudarymas ir analize\Individualus darbas\lab1Maišos funkcija - vidinė atmintis\Lentelė\obj\Debug\Lentelė.exe
+D:\Algoritmu sudarymas ir analize\Individualus darbas\lab1Maišos funkcija - vidinė atmintis\Lentelė\obj\Debug\Lentelė.pdb
